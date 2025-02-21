@@ -1,0 +1,3 @@
+Unidad No. 1 
+
+En la unidad 1 vimos los números binarios, para mi no eran del todo desconocidos estos temas, pero descubrir como se toma un el numero binario como tal, y el tamaño del bit, para que se haga el código ASCII, y que lo que escribamos sea una gran combinación de 0 y 1, es algo que me encanto descubrir, esto lo tuve claro al igual que la utilización del algoritmo y siendo algo que es tan normal en nuestra vida, como respirar, pero siempre hay instrucciones detalladas para hacer las cosas.  

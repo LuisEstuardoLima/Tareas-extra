@@ -1,0 +1,3 @@
+Unidad 2.
+
+En la unidad 2 estuvimos viendo unos de los entornos de programación que es usado por muchos programadores, JavaScript. Estuvimos viendo elementos como las variables, como nombrarlas, y teniendo en cuenta que se deben usar nombre como bien relacionados a la variable. Los tipos de operadores, los tipos de datos numéricos, la sintaxis a utilizar en JavaScript, las operaciones numéricas, las operaciones comparativas, las expresiones booleanas los tipos de caracteres, así mismo, vimos varias aplicaciones y ejercicios que nos ayudaron a poner en practica varias expresiones utilizadas en JavaScript como if els if else, asi mismo vimos la función Switch, para ver si una condición no se cumple pasa a la siguiente, y así hasta que se termine el programa. 

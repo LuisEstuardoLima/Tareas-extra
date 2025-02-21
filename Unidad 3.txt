@@ -1,0 +1,3 @@
+Unidad 3. 
+
+En esta unidad vimos la herramienta Git/GitHub, para mi en esta unidad fue de un gran valor, por que aprendí muchas cosas al respecto del uso de GitHub, yo usaba el Git/GitHub sin realmente saber el gran potencial que este trae, y lo excelente que es como herramienta, para trabajar en grupo como programadores. Yo tuve pues un poco de dificultad, en algún momento creando las nuevas branches, pero al final entendí como se debía hacer, y lo logre completar, al final es bonito tener este tipo de dificultades y siempre buscar la forma de solucionarlo. 
